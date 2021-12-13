@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @nicopenaloza, I’m a full-stack developer passionate about technology and creating real-world solutions. I have always had an interest in technology and the problems it can solve.
+- Specialized in Web and Mobile app development.
+- My skills are Javascript, TypeScript, SQL, MYSQL, NodeJS, ReactJS, StencilJs, Firebase, AWS, HTML, CSS, Python, C#, Ionic
+- 📬 Where you can find me: 
+  - Linkedin: [@nicopenaloza](https://www.linkedin.com/in/nicopenaloza/)
+  - Github: [@nicopenaloza](https://github.com/nicopenaloza/)
